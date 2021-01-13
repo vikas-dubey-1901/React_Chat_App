@@ -1,4 +1,4 @@
-# Realtime Chat Application
+## Realtime Chat Application
 
 
 
@@ -11,10 +11,11 @@
 
 
 
-## Introduction
 
-This is a full Realtime Chat Application. It is developed using React on the front end, with NodeJS + Socket.io web socket library on the back end.
 
-Setup:
+ # This is a full Realtime Chat Application. It is developed using React on the front end, with NodeJS + Socket.io web socket library on the back end.
+ # All the Persons join with the same room number should chat with each other. 
+
+# Setup:
 
 - run `npm i && npm start` for both client and server side to start the development server
