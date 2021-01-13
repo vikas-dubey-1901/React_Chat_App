@@ -4,6 +4,11 @@
 
 # 𝐀𝐩𝐩 𝐋𝐢𝐧𝐤 ::->  https://vikas-realtime-chat.netlify.app/ 
 
+![alt text](https://github.com/vikas-dubey-1901/React_Chat_App/blob/master/Screenshot%20(9).png)  
+![alt text](https://github.com/vikas-dubey-1901/React_Chat_App/blob/master/Screenshot%20(10).png)
+
+
+
 
 ## Introduction
 
